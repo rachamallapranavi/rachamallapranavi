@@ -7,7 +7,9 @@
 - 🌱 Currently: Completed Python Basics - Level 1
 
 ### 🚀 My Projects
-- 📂 [python-basics](https://github.com/rachamallapranavi/python-basics) - My Python learning journey (7 programs + pro README)
+• 📁 python-basics - My Python learning journey (7 programs + pro README)
+• 🧮 calculator-app - Simple + GUI Calculator with Tkinter (My First Project)
+• 📝 my-second-project-todo-app - To-Do List App (My Second Project)
 
 ### 🛠️ Skills
 `Python` `Git` `GitHub` `Data Science (Learning)`
