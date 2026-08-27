@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Rachamalla Pranavi
 
-<!--
-**rachamallapranavi/rachamallapranavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 👩‍🎓 CSE (Data Science) @ KKR & KSR Institute of Technology and Science (KITS)
+- 🐍 Learning Python & Data Science
+- 🎯 Goal: Python Developer / Data Scientist
+- 🌱 Currently: Completed Python Basics - Level 1
 
-Here are some ideas to get you started:
+### 🚀 My Projects
+- 📂 [python-basics](https://github.com/rachamallapranavi/python-basics) - My Python learning journey (7 programs + pro README)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+`Python` `Git` `GitHub` `Data Science (Learning)`
+
+### 📊 GitHub Stats
+- 🔥 Started coding: Aug 2026
+- ⭐ Level 1 Completed: 7/7 files
+
+### 📫 Connect with Me
+- GitHub: [@rachamallapranavi](https://github.com/rachamallapranavi)
+
+---
+⭐ *First Year CSE Data Science Student | Future Data Scientist*
