@@ -5,7 +5,7 @@
 - 🐍 Learning Python & Data Science
 - 🎯 Goal: Python Developer / Data Scientist
 - 🌱 Currently: Completed Python Basics - Level 1
-
+- 🌱 Currently: Completed Level 2 - Calculator & To-Do Apps Done! Building Portfolio Next
 ### 🚀 My Projects
 • 📁 python-basics - My Python learning journey (7 programs + pro README)
 • 🧮 calculator-app - Simple + GUI Calculator with Tkinter (My First Project)
